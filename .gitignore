@@ -1,1 +1,5 @@
 .env
+hospital/__pycache__
+hms/__pycache__
+.qodo
+migrations
